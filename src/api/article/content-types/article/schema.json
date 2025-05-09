@@ -16,7 +16,7 @@
       "type": "string"
     },
     "markdownContent": {
-      "type": "text",
+      "type": "richtext",
       "required": false,
       "default": "",
       "configurable": true
