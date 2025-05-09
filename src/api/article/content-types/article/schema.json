@@ -17,6 +17,12 @@
       "required": true,
       "configurable": true
     },
+    "slug": {
+      "type": "uid",
+      "targetField": "title",
+      "required": true,
+      "configurable": true
+    },
     "markdownContent": {
       "type": "richtext",
       "required": false,
