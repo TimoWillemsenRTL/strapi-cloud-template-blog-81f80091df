@@ -27,7 +27,7 @@
       "type": "media",
       "multiple": true,
       "required": false,
-      "allowedTypes": ["images", "files", "videos"],
+      "allowedTypes": ["files"],
       "configurable": true
     }
   }
